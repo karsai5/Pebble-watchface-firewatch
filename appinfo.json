@@ -1,0 +1,56 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Linus Karsai",
+    "enableMultiJS": true,
+    "longName": "FireWatch Watchface ",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/three2.png",
+                "name": "DAYTIME",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "data/animation.png",
+                "name": "FIREWORK",
+                "targetPlatforms": null,
+                "type": "raw"
+            },
+            {
+                "file": "images/night.png",
+                "name": "NIGHTTIME",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/Rams-Bold.ttf",
+                "name": "RAMS_BOLD_42",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/big_wallpaper.png",
+                "menuIcon": true,
+                "name": "BIG_WALLPAPER",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "FireWatch",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "0d0e732f-c8d9-41d4-b70d-0a6d0c9d7e92",
+    "versionLabel": "1.7",
+    "watchapp": {
+        "watchface": true
+    }
+}
